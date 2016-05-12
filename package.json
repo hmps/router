@@ -1,0 +1,24 @@
+{
+  "name": "@hmps/router",
+  "version": "0.0.0",
+  "description": "A front end router learning project",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "jspm": {
+    "name": "router",
+    "main": "index.js",
+    "directories": {
+      "lib": "src"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "plugin-babel": "npm:systemjs-plugin-babel@^0.0.10"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hampus Persson <h@hmps.se> (http://hmps.se/)",
+  "license": "MIT"
+}
